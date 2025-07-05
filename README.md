@@ -13,7 +13,8 @@ This project explores **sentiment analysis on product reviews from Indonesian E-
 - `re`, `string`, `nltk` for text cleaning  
 - `transformers`, `datasets`, `torch`, `sklearn` for modeling and evaluation  
 - `BERT` (bert-base-uncased) from Hugging Face Transformers  
-- `matplotlib`, `seaborn`, `wordcloud` for visualization  
+- `matplotlib`, `seaborn`, `wordcloud` for visualization
+- Dataset: [dipawidia/ecommerce-product-reviews-sentiment](https://huggingface.co/datasets/dipawidia/ecommerce-product-reviews-sentiment)  
  
 
 <div align="center">
